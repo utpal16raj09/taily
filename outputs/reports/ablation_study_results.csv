@@ -1,0 +1,6 @@
+Experiment,Features Count,WMAPE (%),RMSE,MAE,Bias (%),WMAPE Degradation (Δ%)
+Full Feature Model (Benchmark),54,7.76,928.48,261.2,-0.62,0.0
+Ablation: Without Promotions,46,8.92,1083.84,300.12,2.23,1.16
+Ablation: Without Macro / Oil,50,8.08,944.98,271.82,1.4,0.32
+Ablation: Without Calendar & Holidays,37,9.38,1142.83,315.68,-1.12,1.62
+Ablation: Without Historical Lags & Rolling,37,10.52,1166.4,354.02,-0.44,2.76

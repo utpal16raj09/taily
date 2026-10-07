@@ -1,0 +1,13 @@
+Metric,Value
+Total Weekly Records,"420,552"
+Unique Stores / Markets,54
+Unique SKU Categories,33
+Total Series (Store x SKU),"1,782"
+Time Horizon (Weeks),236 (2013-01-07 to 2017-08-07)
+Duplicate Records (date x store x sku),0
+Zero Sales Records,"105,639 (25.12%)"
+Pre-Launch / Inactive Records,"64,618 (15.37%)"
+Active Promotional Weeks,"145,505 (34.60%)"
+Missing Target Values (unit_sales),0
+Missing Oil Prices,0
+Missing Holiday Data,0

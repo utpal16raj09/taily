@@ -1,0 +1,5 @@
+Scenario Name,Description,Total 13-Week Unit Demand (M Units),Volume Delta vs Baseline (M Units),Percentage Demand Change (%),Commercial Strategic Implication
+Status Quo (Planned Commercial Baseline),Planned promotional calendar and stable macroeconomic conditions.,25.922,0.0,0.0,Target inventory buffer to standard safety stock.
+Scenario A: Promotional Expansion (+25%),25% expansion in promotional frequency and discount depth across FMCG categories.,27.11,1.188,4.58,Requires +12-15% increase in replenishment orders to avoid stockouts.
+Scenario B: Promotion Freeze (0% Promo),Complete cessation of trade discounts; pure organic customer demand.,3.68,-22.241,-85.8,Reveals core unpromoted baseline; reduces working capital holding risk.
+Scenario C: Macro Oil / Inflation Shock (+30%),Crude oil price shock (+30%) causing macroeconomic inflation and wallet squeeze.,33.276,7.354,28.37,Consumers substitute premium personal care towards essentials.
